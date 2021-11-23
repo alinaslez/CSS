@@ -134,7 +134,9 @@ margin-left: 25px; */
 .list {
   padding: 0 20px;
 }
-
+.link-list{
+list-style:none;
+}
 .list {
   color: #86898f;
   margin-bottom: 10px;
